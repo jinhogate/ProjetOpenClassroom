@@ -1,3 +1,4 @@
 je viens de modifier mon fichier!
 Une autre modification!
 Ajoutons une troisième ligne!
+Comment gérer le conflit
